@@ -1,0 +1,26 @@
+html {
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.6rem;
+}
+
+.nav {
+    padding: 2rem 6rem;
+    
+}
+
+.nav-links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+
+.nav-links a {
+    color: #FFFFFF;
+    text-decoration: nome;
+}
