@@ -9,6 +9,18 @@ body{
     font-size: 1.6rem;
 }
 
+section {
+    padding: 5rem;
+    max-width: 96rem;
+    margin: 0 auto;
+}
+
+.itens-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .nav {
     padding: 2rem 6rem;
     
@@ -29,8 +41,21 @@ body{
     border-radius: 100%;
     width: 24rem;
     height: 24rem;
+    margin-right: 10rem;
 }
 
 .main-title {
-    
+    font-size: 4rem;
+}
+
+.main-description {
+    margin: 4rem 0;
+}
+
+.button {
+    border-radius: 0.2rem;
+    background-color: #0036CC;
+    padding: 1rem 2rem;
+    color: #FFFFFF;
+    text-decoration: none;
 }
