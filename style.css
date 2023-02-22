@@ -24,3 +24,13 @@ body{
     color: #FFFFFF;
     text-decoration: none;
 }
+
+.avatar {
+    border-radius: 100%;
+    width: 24rem;
+    height: 24rem;
+}
+
+.main-title {
+    
+}
