@@ -29,7 +29,6 @@ h2 {
 
 .nav {
     padding: 2rem 6rem;
-    
 }
 
 .nav-links {
@@ -68,4 +67,19 @@ h2 {
 
 .about {
     background-color: #162340;
+}
+
+.project {
+    margin: 4rem 0;
+}
+
+.project-image {
+    width: 24rem;
+    height: 18rem;
+    margin-right: 2.5rem;
+    border-radius: 0.6rem;
+}
+
+.project-title {
+    font-size: 3rem;
 }
